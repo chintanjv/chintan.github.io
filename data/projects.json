@@ -20,16 +20,6 @@
     "pinned": false
   },
   {
-    "slug": "pumpwatch",
-    "title": "PumpWatch",
-    "summary": "A crowdsourced gas price community reporting web app for the Bay Area. Anonymous, real-time reporting powered by Supabase backend and deployed on Vercel.",
-    "link": "https://github.com",
-    "github": "https://github.com",
-    "cover": "",
-    "tags": ["Supabase", "Vercel", "JavaScript"],
-    "pinned": false
-  },
-  {
     "slug": "barkpark",
     "title": "BarkPark",
     "summary": "An iOS app for discovering dog parks in your area. Built in SwiftUI with location-based search, park ratings, and a clean map-driven browsing experience.",
@@ -37,16 +27,6 @@
     "github": "https://github.com",
     "cover": "",
     "tags": ["SwiftUI", "iOS", "CoreLocation"],
-    "pinned": false
-  },
-  {
-    "slug": "example-hidden-project",
-    "title": "Example Hidden Project",
-    "summary": "This project only appears after clicking 'View more' — demonstrating the expand behavior. Delete this entry or set it as one of your real projects.",
-    "link": "https://github.com",
-    "github": "",
-    "cover": "",
-    "tags": ["Example"],
     "pinned": false
   }
 ]
